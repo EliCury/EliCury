@@ -9,8 +9,6 @@ I'm passionate about technology, like to solve problems and learning. Always ope
 - 📚 Student of TADS(Systems Analysis and Development) at Unipar.
 - 👾 Pronouns: Whisker
 
-##https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-
 <div align="center">
   <a href="https://github.com/EliCury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliCury&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
