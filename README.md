@@ -4,8 +4,8 @@
 
 I'm passionate about technology, like to solve problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 Junior front-end developer.
-- 👨‍💻 Studying HTML | CSS | JavaScript | ReactJs | python | jQuery | PHP |
+- 🔭 Junior front-end developer. 
+- 👨‍💻 Studying HTML | CSS | JavaScript | ReactJs | python | jQuery | PHP | JAVA
 - 📚 Student of TADS(Systems Analysis and Development) at Unipar.
 - 👾 Pronouns: Whisker
 
