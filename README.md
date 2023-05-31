@@ -7,7 +7,7 @@ I'm passionate about technology, like to solve problems and learning. Always ope
 
 - 🔭 Junior front-end developer. | Junior back-end developer.
 - 👨‍💻 Studying HTML | CSS | JavaScript | ReactJs | python | jQuery | PHP | JAVA | PostgreSQL | NoSQL | VueJs | Elixir
-- 📚 Student of TADS(Systems Analysis and Development) at Unipar.
+- 🎓 Graduated in TADS (Systems Analysis and Development)
 - 👾 Pronouns: Whisker
 
 ### Git-Hub Status
