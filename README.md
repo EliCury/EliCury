@@ -24,7 +24,7 @@ I'm passionate about technology, like to solve problems and learning. Always ope
   <img align="center" alt="Eli-jquery" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/jquery.png">       
   <img align="center" alt="Eli-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Eli-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
-  <img align="center" alt="Eli-vueJS" height="30" width="40" src="[https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/vue-js-icon.svg](https://fontawesome.com/icons/vuejs?f=brands&s=solid)">                                                                                 
+  <img align="center" alt="Eli-vueJS" height="30" width="40" src="[https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/vue-js-icon.svg]">                                                                                 
     
 </div>
                                                                  
